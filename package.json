@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "chart.js": "^4.5.1",
+    "csv-parser": "^3.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "name": "uts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lalu oji darmaji",
+  "license": "ISC"
+}
